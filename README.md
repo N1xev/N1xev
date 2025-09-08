@@ -8,7 +8,7 @@ Hey there, I'm Nixev, a 19 year old Web developer from Egypt. I love making Web 
 ---
 
 - I am Going to be Full-Stack web developer based in Egypt.
-- I specialize in Go, Bun.js and have a passion for building websites and Discord bots.
+- I specialize in Go, Bun.js and have a passion for building websites, TUIs/CLIs and Discord bots.
 <br />
 
 - [![GitHub followers](https://img.shields.io/github/followers/N1xev.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/N1xev?tab=followers)
