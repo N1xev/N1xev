@@ -17,7 +17,7 @@ Hey there, I'm Nixev, a 19 year old Web developer from Egypt. I love making Web 
 
 <br />
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <div align="center">
 
@@ -42,7 +42,7 @@ Hey there, I'm Nixev, a 19 year old Web developer from Egypt. I love making Web 
 
 <br />
 
-### 🧰 Frameworks and Database 
+### Frameworks and Database 
 
 <div align="center">
 
@@ -60,7 +60,7 @@ Hey there, I'm Nixev, a 19 year old Web developer from Egypt. I love making Web 
 
 </div>
 
-### 💻 Programs Skills 
+### Programs Skills 
 
 <div align="center">
 
@@ -76,7 +76,7 @@ Hey there, I'm Nixev, a 19 year old Web developer from Egypt. I love making Web 
 
 <br />
 
-### 🏆 GitHub Profile Trophy: 
+### GitHub Trophies: 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=N1xev&column=8&theme=rose_pine&no-frame=true&no-bg=true"/>
 </a>
@@ -110,7 +110,7 @@ Hey there, I'm Nixev, a 19 year old Web developer from Egypt. I love making Web 
 
 <br />
 
-### 📊 Contribution Graph
+### Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=N1xev&bg_color=191724&color=E0DEF4&line=EB6F92&point=F6C177&area=true&hide_border=true" />
@@ -119,19 +119,19 @@ Hey there, I'm Nixev, a 19 year old Web developer from Egypt. I love making Web 
 <br> 
 <hr>
 
-### 🎯 What I'm Currently Working On:
+### What I'm Currently Working On:
 
-- 🔨 Building Discord bots with Go and JavaScript
-- 🌐 Full-stack web applications with Go or React and Next.js
-- 🛠️ CLI/TUI tools using Bubble Tea and Lip Gloss
-- 📚 Learning low-level programming with C
+- Building Discord bots with Go and JavaScript
+- Full-stack web applications with Go or React and Next.js
+- CLI/TUI tools using Bubble Tea and Lip Gloss
+- Learning low-level programming with C
 
-### 📫 Connect with me:
+### Connect with me:
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=EB6F92)](https://discord.gg/your-server)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EB6F92)](mailto:your.email@example.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=EB6F92)](https://discord.gg/U44trEjgZf)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EB6F92)](mailto:alasamouly@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=N1xev&style=flat-square&color=EB6F92)
 
