@@ -6,3 +6,4 @@
 - CLI/TUI tools using Go and charm stack
 - Learning low-level programming with C
 - Building Discord bots with Go and JavaScript
+- I use NixOS <3
